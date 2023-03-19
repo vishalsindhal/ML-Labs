@@ -1,2 +1,2 @@
 # ML-Labs
-Labs up to 1-10
+Labs 1-10
